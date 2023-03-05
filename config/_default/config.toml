@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 
 title = 'Red Mechanic AB'
 theme = "congo"
-baseURL = 'https://redmechanic.com/'
+baseURL = 'https://redmechanics.github.io'
 languageCode = 'en-us'
 
 enableRobotsTXT = true
